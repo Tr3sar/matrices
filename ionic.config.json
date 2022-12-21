@@ -1,0 +1,7 @@
+{
+  "name": "matrices",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
